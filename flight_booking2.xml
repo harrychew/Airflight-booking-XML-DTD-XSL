@@ -1,0 +1,123 @@
+<?xml version="1.0" Encoding="UTF-8"?>
+<!--flight_booking1.xml-->
+<flight xmlns="https://www.airasia.com/booking">
+<![CDATA[]]>
+	<booking ID="10001">
+		<name>Peter Jackson</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Beijing</arrive>
+		<passport>1234567</passport>
+		<country>Malaysia</country>
+		<expiryDate>27 March 2022</expiryDate>
+		<flightNo>K11134</flightNo>
+		<date>14 July 2019</date>
+		<boardingTime>07.30</boardingTime>
+		<zone>1</zone>
+		<gateNo>2</gateNo>
+		<seatNo>48K</seatNo>
+	</booking>
+	<booking ID="10012">
+		<name>Sandy Ambre</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Bangkok</arrive>
+		<passport>1454567</passport>
+		<country>United State of America</country>
+		<expiryDate>24 August 2021</expiryDate>
+		<flightNo>V11234</flightNo>
+		<date>20 July 2019</date>
+		<boardingTime>12:30</boardingTime>
+		<zone>2</zone>
+		<gateNo>3</gateNo>
+		<seatNo>12H</seatNo>
+	</booking>
+		<booking ID="10031">
+		<name>Tan Mei Ling</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Seoul</arrive>
+		<passport>2415374</passport>
+		<country>Malaysia</country>
+		<expiryDate>27 March 2022</expiryDate>
+		<flightNo>G13934</flightNo>
+		<date>1 August 2019</date>
+		<boardingTime>04:30</boardingTime>
+		<zone>5</zone>
+		<gateNo>3</gateNo>
+		<seatNo>28A</seatNo>
+	</booking>
+	</booking>
+		<booking ID="10089">
+		<name>Abdullah bin Mohammad</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Dubai</arrive>
+		<passport>1231261</passport>
+		<country>Malaysia</country>
+		<expiryDate>1 May 2022</expiryDate>
+		<flightNo>P13934</flightNo>
+		<date>21 July 2019</date>
+		<boardingTime>13:30</boardingTime>
+		<zone>2</zone>
+		<gateNo>1</gateNo>
+		<seatNo>22B</seatNo>
+	</booking>
+	</booking>
+		<booking ID="10112">
+		<name>Christina Welsh</name>
+		<depart>Melaka</depart>
+		<arrive>Peneng</arrive>
+		<passport>5479344</passport>
+		<country>United Kingdom</country>
+		<expiryDate>21 September 2023</expiryDate>
+		<flightNo>H74836</flightNo>
+		<date>12 August 2019</date>
+		<boardingTime>04:30</boardingTime>
+		<zone>8</zone>
+		<gateNo>2</gateNo>
+		<seatNo>34C</seatNo>
+	</booking>
+	</booking>
+		<booking ID="10213">
+		<name>George Oswell</name>
+		<depart>Peneng</depart>
+		<arrive>Jakarta</arrive>
+		<passport>649348</passport>
+		<country>Singapore</country>
+		<expiryDate>18 April 2023</expiryDate>
+		<flightNo>D53267</flightNo>
+		<date>25 July 2019</date>
+		<boardingTime>06:30</boardingTime>
+		<zone>2</zone>
+		<gateNo>4</gateNo>
+		<seatNo>26E</seatNo>
+	</booking>
+	</booking>
+		<booking ID="10387">
+		<name>Justin Bing</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Tokyo</arrive>
+		<passport>8631971</passport>
+		<country>France</country>
+		<expiryDate>20 July 2023</expiryDate>
+		<flightNo>Y16791</flightNo>
+		<date>1 August 2019</date>
+		<boardingTime>06:30</boardingTime>
+		<zone>1</zone>
+		<gateNo>2</gateNo>
+		<seatNo>67C</seatNo>
+	</booking>
+	</booking>
+		<booking ID="10459">
+		<name>Monica Vakoski</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Melbourne</arrive>
+		<passport>9999121</passport>
+		<country>Russia</country>
+		<expiryDate>19 October 2021</expiryDate>
+		<flightNo>V72612</flightNo>
+		<date>9 August 2019</date>
+		<boardingTime>08:45</boardingTime>
+		<zone>4</zone>
+		<gateNo>1</gateNo>
+		<seatNo>28A</seatNo>
+	</booking>
+	
+</flight>

@@ -1,0 +1,105 @@
+<?xml version="1.0" Encoding="UTF-8"?>
+<!--flight_booking1.xml-->
+<flight xmlns="https://www.airasia.com/booking">
+<![CDATA[]]>
+	<booking ID="10001">
+		<name>Peter Jackson</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Beijing</arrive>
+		<departDate>14 July 2019</departDate>
+		<departTime>08:00</departTime>
+		<returnDate>21 July 2019</returnDate>
+		<returnTime>12:00</returnTime>
+		<price>RM320</price>
+		<quantity>1</quantity>
+		<luggage>Yes</luggage>
+	</booking>
+		<booking ID="10012">
+		<name>Sandy Ambre</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Bangkok</arrive>
+		<departDate>20 July 2019</departDate>
+		<departTime>13:00</departTime>
+		<returnDate>25 July 2019</returnDate>
+		<returnTime>21:00</returnTime>
+		<price>RM224</price>
+		<quantity>2</quantity>
+		<luggage>No</luggage>
+	</booking>
+		<booking ID="10031">
+		<name>Tan Mei Ling</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Seoul</arrive>
+		<departDate>1 August 2019</departDate>
+		<departTime>05:00</departTime>
+		<returnDate>8 August 2019</returnDate>
+		<returnTime>12:35</returnTime>
+		<price>RM420</price>
+		<quantity>1</quantity>
+		<luggage>Yes</luggage>
+	</booking>
+	</booking>
+		<booking ID="10089">
+		<name>Abdullah bin Mohammad</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Dubai</arrive>
+		<departDate>21 July 2019</departDate>
+		<departTime>14:00</departTime>
+		<returnDate>1 August 2019</returnDate>
+		<returnTime>22:15</returnTime>
+		<price>RM699</price>
+		<quantity>4</quantity>
+		<luggage>Yes</luggage>
+	</booking>
+	</booking>
+		<booking ID="10112">
+		<name>Christina Welsh</name>
+		<depart>Melaka</depart>
+		<arrive>Peneng</arrive>
+		<departDate>12 August 2019</departDate>
+		<departTime>05:00</departTime>
+		<returnDate>20 August 2019</returnDate>
+		<returnTime>12:35</returnTime>
+		<price>RM119</price>
+		<quantity>5</quantity>
+		<luggage>Yes</luggage>
+	</booking>
+	</booking>
+		<booking ID="10213">
+		<name>George Oswell</name>
+		<depart>Peneng</depart>
+		<arrive>Jakarta</arrive>
+		<departDate>25 July 2019</departDate>
+		<departTime>07:00</departTime>
+		<returnDate>12 August 2019</returnDate>
+		<returnTime>14:45</returnTime>
+		<price>RM350</price>
+		<quantity>1</quantity>
+		<luggage>No</luggage>
+	</booking>
+	</booking>
+		<booking ID="10387">
+		<name>Justin Bing</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Tokyo</arrive>
+		<departDate>1 August 2019</departDate>
+		<departTime>07:00</departTime>
+		<returnDate>15 August 2019</returnDate>
+		<returnTime>10:35</returnTime>
+		<price>RM700</price>
+		<luggage>Yes</luggage>
+	</booking>
+	</booking>
+		<booking ID="10459">
+		<name>Monica Vakoski</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Melbourne</arrive>
+		<departDate>9 August 2019</departDate>
+		<departTime>09:15</departTime>
+		<returnDate>28 August 2019</returnDate>
+		<returnTime>8:35</returnTime>
+		<price>RM725</price>
+		<quantity>1</quantity>
+		<luggage>Yes</luggage>
+	</booking>
+</flight>

@@ -1,0 +1,14 @@
+<!ELEMENT flight (booking)>
+<!ELEMENT booking (name*, seatNo*, depart, arrive, country, flightNo, date, boardingTime, zone, gateNo)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT seatNo (#PCDATA)>
+<!ELEMENT depart (#PCDATA)>
+<!ELEMENT arrive (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT flightNo (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT boardingTime (#PCDATA)>
+<!ELEMENT zone (#PCDATA)>
+<!ELEMENT gateNo (#PCDATA)>
+<!ATTLIST booking No ID #REQUIRED>
+<!ATTLIST booking passengerNo IDREFS #IMPLIED>

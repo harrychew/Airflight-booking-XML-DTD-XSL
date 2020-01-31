@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--passengers.xml-->
+<!DOCTYPE record [
+	<!ELEMENT record (passenger)>
+	<!ELEMENT passenger (name, NRIC, email, contactNo, gender, birthdate, bookingNo)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT NRIC (#PCDATA)>
+	<!ELEMENT email (#PCDATA)>
+	<!ELEMENT contactNo (#PCDATA)>
+	<!ELEMENT gender (#PCDATA)>
+	<!ELEMENT birthdate (#PCDATA)>
+	<!ELEMENT bookingNo (#PCDATA)>
+	<!ATTLIST passenger No ID #REQUIRED>
+	<!ATTLIST passenger mainID IDREF #IMPLIED>
+]>
+
+<record>
+	<a:PAP xmlns:a="https://www.airasia.com/booking">
+		<a:passenger No="A001">
+			<a:name>Peter Jackson</a:name>
+			<a:NRIC>880428-01-6785</a:NRIC>
+			<a:email>peterjackson88@gmail.com</a:email>
+			<a:contactNo>019-6394757</a:contactNo>
+			<a:gender>Male</a:gender>
+			<a:birthdate>28-04-1988</a:birthdate>
+			<a:bookingNo>10001</a:bookingNo>
+			<Announcement>
+			<![CDATA[Attention! Please remember to check in 1 hour before scheduled time of departure	
+		]]>
+			</Announcement>
+		</a:passenger>
+	</a:PAP>
+
+	<passenger No="A002">
+		<name>Sandy Ambre</name>
+		<NRIC>980119-56-2786</NRIC>
+		<email>sandy119@gmail.com</email>
+		<contactNo>011-51752289</contactNo>
+		<gender>Female</gender>
+		<birthdate>19-01-1998</birthdate>
+		<bookingNo>10012</bookingNo>
+	</passenger>
+
+	<passenger No="A003" mainID="A033">
+		<name>Tan Mei Ling</name>
+		<NRIC>000509-04-5684</NRIC>
+		<email>mei.ling.00@hotmail.com</email>
+		<contactNo>017-9480365</contactNo>
+		<gender>Female</gender>
+		<birthdate>09-05-2000</birthdate>
+		<bookingNo>10031</bookingNo>
+	</passenger>
+
+	<passenger No="A033">
+		<name>Tan Yong Kang</name>
+		<NRIC>760611-04-2679</NRIC>
+		<email>tanyongkang.611@hotmail.com</email>
+		<contactNo>016-8654689</contactNo>
+		<gender>Male</gender>
+		<birthdate>11-06-1976</birthdate>
+		<bookingNo>10031</bookingNo>
+	</passenger>
+
+	<passenger No="A004">
+		<name>Abdullah bin Muhammad</name>
+		<NRIC>701120-03-1359</NRIC>
+		<email>abdullah70@gmail.com</email>
+		<contactNo>016-4632785</contactNo>
+		<gender>Male</gender>
+		<birthdate>20-11-1970</birthdate>
+		<bookingNo>10089</bookingNo>
+	</passenger>
+
+	<passenger No="A005">
+		<name>Ng Pei Ting</name>
+		<NRIC>941223-56-4536</NRIC>
+		<email>peiting1223@yahoo.com</email>
+		<contactNo>019-5873592</contactNo>
+		<gender>Female</gender>
+		<birthdate>23-12-1994</birthdate>
+		<bookingNo>10112</bookingNo>
+	</passenger>
+
+	<passenger No="A006">
+		<name>Goh Wei Kang</name>
+		<NRIC>900125-01-9731</NRIC>
+		<email>wei.kang125@hotmail.com</email>
+		<contactNo>012-9574367</contactNo>
+		<gender>Male</gender>
+		<birthdate>25-01-1990</birthdate>
+		<bookingNo>10213</bookingNo>
+	</passenger>
+
+	<passenger No="A007">
+		<name>Justin Bing</name>
+		<NRIC>860524-04-5365</NRIC>
+		<email>justinbing524@gmail.com</email>
+		<contactNo>011-23698756</contactNo>
+		<gender>Male</gender>
+		<birthdate>24-05-1986</birthdate>
+		<bookingNo>10387</bookingNo>
+	</passenger>
+
+	<passenger No="A008">
+		<name>Irene Kang Shin Lin</name>
+		<NRIC>601205-56-4688</NRIC>
+		<email>irene.kang@hotmail.com</email>
+		<contactNo>016-4632785</contactNo>
+		<gender>Female</gender>
+		<birthdate>05-12-1960</birthdate>
+		<bookingNo>10459</bookingNo>
+	</passenger>
+</record>
+

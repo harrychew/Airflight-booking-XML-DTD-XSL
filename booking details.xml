@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!--booking_details.xml-->
+<!DOCTYPE flight SYSTEM "booking.dtd">
+
+<flight xmlns:f="https://www.airasia.com/booking">
+	<booking No="10001">
+		<name>Peter Jackson</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Beijing</arrive>
+		<country>Malaysia</country>
+		<flightNo>K11134</flightNo>
+		<date>14 July 2019</date>
+		<boardingTime>0730</boardingTime>
+		<zone>1</zone>
+		<gateNo>2</gateNo>
+		<seatNo>48K</seatNo>
+	</booking>
+
+	<booking No="10012">
+		<name>Sandy Ambre</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Bangkok</arrive>
+		<country>United State of America</country>
+		<flightNo>V11234</flightNo>
+		<date>20 July 2019</date>
+		<boardingTime>1230</boardingTime>
+		<zone>2</zone>
+		<gateNo>3</gateNo>
+		<seatNo>12H</seatNo>
+	</booking>
+
+	<booking No="10089">
+		<name>Abdullah bin Mohammad</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Dubai</arrive>
+		<country>Malaysia</country>
+		<flightNo>P13934</flightNo>
+		<date>21 July 2019</date>
+		<boardingTime>1330</boardingTime>
+		<zone>2</zone>
+		<gateNo>1</gateNo>
+		<seatNo>22B</seatNo>
+	</booking>
+
+	<booking No="10031" passengerNo="A033 A003">
+		<name>Tan Yong Kang</name>
+		<seatNo>28A</seatNo>
+		<name>Tan Mei Ling</name>
+		<seatNo>28B</seatNo>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Seoul</arrive>
+		<country>Malaysia</country>
+		<flightNo>G13934</flightNo>
+		<date>1 August 2019</date>
+		<boardingTime>0430</boardingTime>
+		<zone>5</zone>
+		<gateNo>3</gateNo>
+	</booking>
+
+	<booking No="10112">
+		<name>Ng Pei Ting</name>
+		<depart>Melaka</depart>
+		<arrive>Peneng</arrive>
+		<country>United Kingdom</country>
+		<flightNo>H74836</flightNo>
+		<date>12 August 2019</date>
+		<boardingTime>0430</boardingTime>
+		<zone>8</zone>
+		<gateNo>2</gateNo>
+		<seatNo>34C</seatNo>
+	</booking>
+
+	<booking No="10213">
+		<name>Goh Wei Kang</name>
+		<depart>Peneng</depart>
+		<arrive>Jakarta</arrive>
+		<country>Singapore</country>
+		<flightNo>D53267</flightNo>
+		<date>25 July 2019</date>
+		<boardingTime>0630</boardingTime>
+		<zone>2</zone>
+		<gateNo>4</gateNo>
+		<seatNo>26E</seatNo>
+	</booking>
+
+	<booking No="10387">
+		<name>Justin Bing</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Tokyo</arrive>
+		<country>France</country>
+		<flightNo>Y16791</flightNo>
+		<date>1 August 2019</date>
+		<boardingTime>0630</boardingTime>
+		<zone>1</zone>
+		<gateNo>2</gateNo>
+		<seatNo>67C</seatNo>
+	</booking>
+
+	<booking No="10459">
+		<name>Irene Kang Shin Lin</name>
+		<depart>Kuala Lumpur</depart>
+		<arrive>Melbourne</arrive>
+		<country>Russia</country>
+		<flightNo>V72612</flightNo>
+		<date>9 August 2019</date>
+		<boardingTime>0845</boardingTime>
+		<zone>4</zone>s
+		<gateNo>1</gateNo>
+		<seatNo>28A</seatNo>
+	</booking>
+</flight>
